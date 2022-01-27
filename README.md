@@ -1,5 +1,5 @@
 ![Title](https://github.com/S010MON/game-of-life-2/blob/master/src/main/resources/screenshots/screenshot_02.png)
-# Game Of Life v2.0
+# Game Of Life 2.0
 An interactive version of the zero player game that follows the rules of the original game devised by the late John Conway
 
 1. Any live cell with two or three live neighbours survives.
